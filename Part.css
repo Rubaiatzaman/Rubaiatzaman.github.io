@@ -1,0 +1,75 @@
+#HACKER_NEWS
+{
+width:1000 px;
+margin:auto;
+}
+body
+{
+	background-color:lightblue;
+}
+
+.HN
+{
+	background-color:orange;
+	margin-top:0px;
+	font-family:cursive;
+	padding-top:0px;
+	
+}
+.area
+{
+	background-color:orange;
+	float:left;
+	list-style:none;
+	margin-top:0px;
+	font-family:cursive;
+	padding-top:0px;
+}
+.area li
+{
+display:inline-block;	
+}
+.area li a
+{
+	color:black;
+	text-decoration:none;
+	padding: 5px 20px;
+	
+}
+.area li a:hover
+{
+	background:lime;
+	color:blue;
+}
+.Logo
+{
+	background-color:orange;
+	float:left;
+	list-style:none;
+	margin-top:0px;
+	font-family:cursive;
+	padding-top:0px;
+}
+.Logo li
+{
+display:inline-block;	
+}
+.Logo li a
+{
+	color:black;
+	text-decoration:none;
+	padding: 5px 20px;
+}
+p
+{
+	text-align:center;
+	background-color:silver;
+}
+p > input
+{
+	text-align:center;
+}
+ol
+{
+background-color:silver;
+}
